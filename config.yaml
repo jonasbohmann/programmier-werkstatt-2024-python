@@ -11,7 +11,7 @@
 carpentry: 'swc'
 
 # Overall title for pages.
-title: 'Programming with Python'
+title: 'Programmier-Werkstatt: Python'
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
 created: '2014-11-25'
@@ -78,14 +78,11 @@ learners:
 # Information for Instructors
 instructors: 
 
-# Learner Profiles
-profiles: 
 
 # Customisation ---------------------------------------------
 #
 # This space below is where custom yaml items (e.g. pinning
 # sandpaper and varnish versions) should live
 
-
-url: 'https://jonasbohmann.github.io/programmier-werkstatt-2024-python'
+url: 'https://programmierwerkstatt.jonasbohmann.de/'
 lang: en
