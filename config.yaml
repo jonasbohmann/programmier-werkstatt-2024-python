@@ -27,13 +27,13 @@ life_cycle: 'stable'
 license: 'CC-BY 4.0'
 
 # Link to the source repository for this lesson
-source: 'https://github.com/swcarpentry/python-novice-inflammation'
+source: 'https://github.com/jonasbohmann/programmier-werkstatt-2024-python'
 
 # Default branch of your lesson
 branch: 'main'
 
 # Who to contact if there are any issues
-contact: 'team@carpentries.org'
+contact: ''
 
 # Navigation ------------------------------------------------
 #
@@ -87,6 +87,5 @@ profiles:
 # sandpaper and varnish versions) should live
 
 
-url: 'https://swcarpentry.github.io/python-novice-inflammation'
-analytics: carpentries
+url: 'https://jonasbohmann.github.io/programmier-werkstatt-2024-python'
 lang: en
