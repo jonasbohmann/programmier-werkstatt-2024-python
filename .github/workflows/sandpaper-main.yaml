@@ -16,6 +16,11 @@ on:
         required: false
         default: false
         type: boolean
+        
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+  
 jobs:
   full-build:
     name: "Build Full Site"
