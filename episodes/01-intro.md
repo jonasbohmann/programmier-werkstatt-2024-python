@@ -19,7 +19,6 @@ exercises: 10
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-
 ## Variables
 
 Any Python interpreter can be used as a calculator:
