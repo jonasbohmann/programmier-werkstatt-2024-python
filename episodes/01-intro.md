@@ -30,6 +30,8 @@ Carpentry](https://swcarpentry.github.io/python-novice-inflammation/).
 Wir haben ein paar Lektionen rund um Data Science rausgenommen und angepasst. Falls dich Data Science interessiert,
 ist das Original für dich möglicherweise besser geeignet als dieser Fork.
 
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ## Variables
 
 Any Python interpreter can be used as a calculator:
