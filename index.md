@@ -4,19 +4,6 @@ site: sandpaper::sandpaper_site
 ---
 
 
-:::::::::::::::::::::::::::::::::::::::::  callout
-
-## Programmier-Werkstatt 2024
-
-Diese Website ist ein Fork von dem [Python Kurs von Software
-Carpentry](https://swcarpentry.github.io/python-novice-inflammation/). 
-
-Wir haben ein paar Lektionen rund um Data Science rausgenommen und angepasst. Falls dich Data Science interessiert,
-ist das Original für dich möglicherweise besser geeignet als dieser Fork.
-
-::::::::::::::::::::::::::::::::::::::::::::::::::
-
-
 ### Scenario: A Miracle Arthritis Inflammation Cure
 
 Our imaginary colleague "Dr. Maverick" has invented a new miracle drug that promises to
