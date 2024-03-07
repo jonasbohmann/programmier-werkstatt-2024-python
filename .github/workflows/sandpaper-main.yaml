@@ -50,7 +50,8 @@ jobs:
       - name: "Setup Lesson Engine"
         uses: carpentries/actions/setup-sandpaper@main
         with:
-          cache-version: ${{ secrets.CACHE_VERSION }}
+          cache: false
+          cache-version: 999
           sandpaper-version: carpentries/sandpaper@main
           pegboard-version: carpentries/pegboard@main
           varnish-version: carpentries/varnish@main
