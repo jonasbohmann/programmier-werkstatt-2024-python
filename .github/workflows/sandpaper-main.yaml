@@ -50,9 +50,9 @@ jobs:
       - name: "Setup Lesson Engine"
         uses: carpentries/actions/setup-sandpaper@main
         with:
-          cache-version: 9999
-          sandpaper-version: carpentries/sandpaper@main
-          pegboard-version: carpentries/pegboard@main
+          cache-version: 99999
+          sandpaper-version: carpentries/sandpaper@0deb88aff2c8a917211d7915cacf56583a8807be
+          pegboard-version: carpentries/pegboard@6a0023c1dbaf9f6936e161364a80c6971777ee46
           varnish-version: carpentries/varnish@main
 
       - name: "Setup Package Cache"
