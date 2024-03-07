@@ -50,6 +50,9 @@ jobs:
         uses: carpentries/actions/setup-sandpaper@main
         with:
           cache-version: ${{ secrets.CACHE_VERSION }}
+          sandpaper-version: carpentries/sandpaper@main
+          pegboard-version: carpentries/pegboard@main
+          varnish-version: carpentries/varnish@main
 
       - name: "Setup Package Cache"
         uses: carpentries/actions/setup-lesson-deps@main

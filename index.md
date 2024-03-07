@@ -3,6 +3,18 @@ permalink: index.html
 site: sandpaper::sandpaper_site
 ---
 
+:::::::::::::::::::::::::::::::::::::::::  callout
+
+## Programmier-Werkstatt 2024
+
+Diese Website ist ein Fork von dem [Python Kurs von Software
+Carpentry](https://swcarpentry.github.io/python-novice-inflammation/). 
+
+Wir haben ein paar Lektionen rund um Data Science rausgenommen und angepasst. Falls dich Data Science interessiert,
+ist das Original für dich möglicherweise besser geeignet als dieser Fork.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
 The best way to learn how to program is to do something useful,
 so this introduction to Python is built around a common scientific task:
 **data analysis**.
