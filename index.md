@@ -3,7 +3,7 @@ permalink: index.html
 site: sandpaper::sandpaper_site
 ---
 
-:::::::::::::::::::::::::::::::::::::::::  callout
+:::::::::::::::::::::::::::::::::::::::::  challenge
 
 ## Programmier-Werkstatt 2024
 

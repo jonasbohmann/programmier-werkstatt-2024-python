@@ -1,5 +1,5 @@
 ---
-title: Repeating Actions with Loops
+title: (ProgWerk) Repeating Actions with Loops
 teaching: 30
 exercises: 0
 ---

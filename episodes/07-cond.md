@@ -1,5 +1,5 @@
 ---
-title: Making Choices
+title: (ProgWerk) Making Choices
 teaching: 30
 exercises: 0
 ---
