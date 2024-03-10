@@ -1,5 +1,5 @@
 ---
-title: Debugging
+title: (ProgWerk) Debugging
 teaching: 30
 exercises: 20
 ---

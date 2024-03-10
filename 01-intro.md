@@ -1,5 +1,5 @@
 ---
-title: Python Fundamentals
+title: (ProgWerk) Python Fundamentals
 teaching: 20
 exercises: 10
 ---
@@ -20,7 +20,7 @@ exercises: 10
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
-:::::::::::::::::::::::::::::::::::::::::  callout
+:::::::::::::::::::::::::::::::::::::::::  challenge
 
 ## Programmier-Werkstatt 2024
 

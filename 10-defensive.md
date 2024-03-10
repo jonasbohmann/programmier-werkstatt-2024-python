@@ -1,5 +1,5 @@
 ---
-title: Defensive Programming
+title: (ProgWerk) Defensive Programming
 teaching: 30
 exercises: 10
 ---
